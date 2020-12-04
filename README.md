@@ -1,3 +1,4 @@
+If you found this repo useful, consider clicking the sponsor button near the top :) Sponsoring via GitHub is as little as $1/month and if you do not use banks or credit cards, there are crypto links included :)<br /><br />
 # SignificantTrades [![Build Status](https://travis-ci.org/Tucsky/SignificantTrades.svg?branch=master)](https://travis-ci.org/Tucsky/SignificantTrades)
 Live cryptocurrency trades visualizer.<br>
 Currently supporting BitMEX, Bitfinex, Binance, Gdax, Bitstamp, Deribit, Huobi, Okex, Hitbtc, Poloniex, Coinex and Liquid ([see server/src/exchanges/](server/src/exchanges) for detail)
